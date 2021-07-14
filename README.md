@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThePapaT
-- 👀 I’m an old man with lotes of grandchildren and I aminterested in learning more coding.
+- 👀 I’m an old man with lotes of grandchildren and I am interested in learning more coding.
 - 🌱 I’m currently learning html, css, javascript.
 - 💞️ I’m looking to collaborate on nothing yet, not good enough to collaberate.
 - 📫 How to reach me ... Ill give that later.
